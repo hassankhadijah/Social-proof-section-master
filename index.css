@@ -1,0 +1,72 @@
+body 
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+     }
+  
+ 
+  .customer {
+    margin-bottom: 20px;
+    background-color: purple;
+    width: 180px;
+    margin: 10px;
+    flex-wrap: nowrap;
+    
+  }
+  
+  .customer p {
+    margin: 0;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif
+    
+  }
+  
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .kdj {
+    display: flex;
+  }
+
+  .pi p {
+    background-color: antiquewhite;
+    width: 320px;
+    margin-left: 5px;
+    font-family: 'Times New Roman', Times, serif
+    
+  }
+  .pii p {
+    background-color: antiquewhite;
+    width: 320px;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif
+  }
+  .piii p {
+    background-color: antiquewhite;
+    width: 300px;
+    margin-left: 20%;
+    font-family: 'Times New Roman', Times, serif
+  }
+
+  .headdiv h1 {
+    width: 250px;
+    color: purple;
+  }
+
+  .headdiv p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .subdiv {
+    display: flex;
+  }
+  .image {
+    border-radius: 200px;
+  }
